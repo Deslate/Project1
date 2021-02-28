@@ -1,1 +1,0 @@
-tar cvzf src.tgz ./* &&  ../client src.tgz ws://10.26.10.212:3050
